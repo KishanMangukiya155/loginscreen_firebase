@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434696304480",
+    "project_id": "crossxapp-e301c",
+    "storage_bucket": "crossxapp-e301c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434696304480:android:3362265a73b10e0a91d005",
+        "android_client_info": {
+          "package_name": "com.example.loginscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKpD7u4TDDIrFAWLB2kHLFqv7WCp_VJL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
